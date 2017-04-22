@@ -1,2 +1,2 @@
 # TicTacToe
-a classic TicTacToe
+A classic single player vs cpu TicTacToe game
