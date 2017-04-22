@@ -1,0 +1,12 @@
+.tic{
+    margin:2px;
+}
+.centered{
+    border:1px solid black;
+    border-radius: 4px;
+    margin-top:10px;
+    padding:5px;
+}
+body{
+    background-color: gray;
+}
